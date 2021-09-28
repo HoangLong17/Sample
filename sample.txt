@@ -1,1 +1,3 @@
-Đến cả con khỉ cũng hiểu được lệnh Git add: Đăng ký thay đổi trong index 12345
+Đến cả con khỉ cũng hiểu được lệnh Git
+add: Đăng ký thay đổi trong index
+________commit: Lưu lại trạng thái của index________
