@@ -1,7 +1,4 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 add: Đăng ký thay đổi trong index
-<<<<<<< HEAD
 pull: Lấy nội dung của remote repository
-=======
-________commit: Lưu lại trạng thái của index________
->>>>>>> 68c676ba11a77414b3502c6d0867314d2dc96b32
+
